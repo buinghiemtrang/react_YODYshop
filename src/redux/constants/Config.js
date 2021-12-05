@@ -1,1 +1,1 @@
-export const API_ENDPOINT = "http://localhost:3000/data";
+export const API_ENDPOINT = "https://yody-shop.herokuapp.com/api";
