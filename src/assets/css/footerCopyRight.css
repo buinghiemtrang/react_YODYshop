@@ -1,0 +1,13 @@
+.footer-copy-right {
+    padding: 16px 0;
+}
+.footer-copy-right p {
+    color: var(--white-color);
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.footer-copy-right p a {
+    color: var(--yellow-color) !important;
+    cursor: pointer;
+}
